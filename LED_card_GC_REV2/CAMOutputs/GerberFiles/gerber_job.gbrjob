@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-09T22:32:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "LED_card_GC_REV2"
+        },
+        "Owner": "Hunter Hykes <hh81@zips.uakron.edu>",
+        "Size": {
+            "X": 84.3,
+            "Y": 68.8
+        }
+    }
+}
